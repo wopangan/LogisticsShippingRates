@@ -19,3 +19,5 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are Licensed.
+
+NOTE: This is part of the 'Getting Started with Git and GitHub' by IBM
