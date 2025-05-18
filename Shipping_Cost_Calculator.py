@@ -16,5 +16,5 @@ chargeable_weight = max(weight, volumetric_weight)
 ## Calculate shippping cost
 shipping_cost = chargeable_weight * rate
 
-print(f"Shipping Cost: {shipping_cost.2f} USD (Based on {chargeable_weight.2f} kg)")
+print(f"Shipping Cost: {shipping_cost:.2f} USD (Based on {chargeable_weight:.2f} kg)")
 
